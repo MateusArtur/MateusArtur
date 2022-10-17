@@ -1,5 +1,14 @@
-🫡 Olá! eu sou Mateus Artur <br>
--📚 Estudando desenvolvimento web
+
+<header>
+  <h3>🫡 Olá! eu sou Mateus Artur </h3><br>
+  <ul>
+    <li>📚 Estudando <strong><i>desenvolvimento web</i></strong></li>
+    <li>📚 Estudando <strong><i>Segurança da informação 3/6</i></strong></li>
+  </ul>
+</header>
+<div>
+  <h4>Sobre minhas atividades:</h4>
+</div>
 
 <div align="center">
   <a href="https://github.com/MateusArtur">
